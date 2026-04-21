@@ -18,3 +18,19 @@ A curated collection of papers and slides about SCADE, Lustre, Esterel, and sync
 
 * Léonard Gérard. Programmer le parallélisme avec des futures en Heptagon un langage synchrone
 flot de données et étude des réseaux de Kahn en vue d’une compilation synchrone. Autre [cs.OH]. Université Paris Sud- Paris XI, 2013. Français. ￿NNT: 2013PA112202￿. ￿tel-00929932￿
+
+## Velus
+
+* Lélio Brun. Mechanized semantics and verified compilation for a dataflow synchronous language with reset. Programming Languages [cs.PL]. Université Paris sciences et lettres, 2020. English. ￿NNT: 2020UPSLE003￿. ￿tel-03068862
+
+* Timothy Bourke, Paul Jeanmaire, Basile Pesin, Marc Pouzet. Verified Lustre Normalization with Node Subsampling. ACM Transactions on Embedded Computing Systems (TECS), 2021, 20 (5s), pp.1-25. ￿10.1145/3477041￿. ￿hal-03370264￿
+
+* Basile Pesin. Verified Compilation of a Synchronous Dataflow Language with State Machines. Computer Science [cs]. PSL University, 2023. English. ￿NNT: ￿. ￿tel-04830529￿
+
+* Timothy Bourke, Basile Pesin, Marc Pouzet. Verified Compilation of Synchronous Dataflow with State Machines. EMSOFT 2023: 23rd International Conference on Embedded Software, Sep 2023, Hamburg, Germany. pp.137:1-137:26, ￿10.1145/3608102￿. ￿hal-04201401￿
+
+* Paul Jeanmaire. Une sémantique dénotationnelle pour un compilateur synchrone vérifié. Informatique [cs]. Université PSL (Paris Sciences & Lettres), 2024. Français. ￿NNT: ￿. ￿tel-04885682￿
+
+## Scade 
+
+* Cédric Auger. Certified compilation of SCADE/LUSTRE. Autre [cs.OH]. Université Paris Sud- Paris XI, 2013. Français. ￿NNT: 2013PA112018￿. ￿tel-00818169￿
