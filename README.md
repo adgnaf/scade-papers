@@ -33,3 +33,5 @@ A curated collection of papers and slides about SCADE, Lustre, Esterel, and sync
 ## Scade 
 
 * Cédric Auger. Certified compilation of SCADE/LUSTRE. Autre [cs.OH]. Université Paris Sud- Paris XI, 2013. Français.NNT: 2013PA112018 .tel-00818169
+
+* Albert Benveniste, Timothy Bourke, Benoit Caillaud, Jean-Louis Colaço, Cédric Pasteur, et al.. Building a Hybrid Systems Modeler on Synchronous Languages Principles. Proceedings of the IEEE, 2018, Design Automation for Cyber-Physical Systems, 106 (9), pp.1568- 1592. 10.1109/JPROC.2018.2858016. hal-01879026
